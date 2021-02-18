@@ -1,0 +1,38 @@
+div.cabecera {
+    background-color: rgba(31, 225, 231, 0.295);
+}
+h1.centrado {
+    text-align: center;
+}
+p.centrado {
+    text-align: center;
+}
+img {
+    height: 100px;
+    width: 140px;
+
+}
+img:hover {
+    opacity: 0.5;
+}
+div.uno {
+    background-color: blue;
+}
+p.titulo1 {
+    text-align: center;
+    font-size: 22px;
+
+}
+span.historia:hover {
+    background: rgba(107, 224, 233, 0.623);
+    font-weight: bold;
+}
+div.antiguo {
+    background-image: url(img/valencia_antigua.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+}
+
+
+
+
