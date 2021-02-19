@@ -3,13 +3,14 @@ div.cabecera {
 }
 h1.centrado {
     text-align: center;
+    font-size: xx-large;
 }
 p.centrado {
     text-align: center;
 }
 img {
-    height: 100px;
-    width: 140px;
+    height: 300px;
+    width: 370px;
 
 }
 img:hover {
@@ -20,7 +21,7 @@ div.uno {
 }
 p.titulo1 {
     text-align: center;
-    font-size: 22px;
+    font-size: 30px;
 
 }
 span.historia:hover {
@@ -31,8 +32,20 @@ div.antiguo {
     background-image: url(img/valencia_antigua.jpg);
     background-repeat: no-repeat;
     background-size: 1200px;
+    width: 1200px;
+    height: 590px;
+    border: black solid;
+}
+span.texto2 {
+    color: blue;
+    font-size: 28px;
+}
+div.antigua2 {
+    text-align: center;
+    background-color:  rgba(31, 225, 231, 0.295);
 }
 
-
-
-
+img.antigua2 {
+    height: 400px;
+    width: 600px;
+}
